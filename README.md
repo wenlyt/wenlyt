@@ -26,5 +26,5 @@
 ---
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1323277709983612979/1335330841689063547/1547157466_1510261826796.gif?ex=679fc741&is=679e75c1&hm=7699f2e4c9685adcfea845b373f9213a878f988e8bab0435ccc1a40c13659d83&" alt="Gif" />
+    <img src="https://cdn.discordapp.com/attachments/1323277709983612979/1335334245840846949/1339704736_preview_a37a557021409c41f53a8eae29aa0dc2.gif?ex=679fca6d&is=679e78ed&hm=265d6f85e566f403503d2994695d81f7a4f12deca66e3e5a41d658621c3c466b&" alt="Gif" />
 </div>
