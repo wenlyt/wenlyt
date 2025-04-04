@@ -7,9 +7,9 @@
 ### ✨ About Me
 
 - 🔭 I’m currently working on improving my programming skills
-- 🌱 I’m learning Java, C++ and GoLang
+- 🌱 I’m learning Java, C++ and GLua
 - 🕶 Skills - JavaFx, OpenGL, Forge API, Minecraft API, Git
-- 📫 How to contact me in Discord: wenlyt2
+- 📫 How to contact me in Discord: yawenlyt
 ---
 
 ### 🛠 My Stats
